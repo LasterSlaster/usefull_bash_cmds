@@ -8,6 +8,8 @@
 - sudo apt-get purge (Paket) Paket deinstallieren inkl.
 - apt-cache search Suchbegriff
 
+- sudo !! [more parameters]
+
 
 
 - Archiv erstellen: tar cfv Archivname Dateiname
